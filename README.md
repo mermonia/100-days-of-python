@@ -7,16 +7,6 @@ This repo contains my solutions and exercises for the [100 Days of Python Udemy 
 - All daily projects are inside the `days/` folder.
 - Each day folder is named `dayXXX`, e.g., `day001`, `day002`, etc.
 
-## Day Index
-
-Here’s a list of all the days with links to their folders:
-
-<!-- DAY-INDEX-START -->
-<!-- This section is auto-generated -->
-<!-- DAY-INDEX-END -->
-
----
-
 ## How to use
 
 - Navigate into a specific day folder to explore that day’s code.
